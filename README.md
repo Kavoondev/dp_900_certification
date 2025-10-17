@@ -632,6 +632,37 @@ Which service should you implement?
 
 ---
 
+### 103.  
+**Query Techniques — Identify a DML statement**  
+Which statement is a DML statement?  
+1. **INSERT**  
+2. ALTER  
+3. CREATE  
+4. DROP
+
+---
+
+### 104.  
+**Query Techniques — Identify a DDL statement**  
+Which statement is a DDL statement?  
+1. **ALTER**  
+2. SELECT  
+3. DELETE  
+4. INSERT
+
+---
+
+### 105.  
+**Query Techniques — Update a row**  
+You have a Products table. Set stock quantity of product ID 5323 to 250. Which SQL statement should you use?  
+1. CREATE  
+2. INSERT  
+3. TRUNCATE  
+4. **UPDATE**
+
+---
+
+
 ✅ **Tip before exam:**  
 Focus on understanding **ETL vs ELT**, **Azure data services (Synapse, Data Factory, Databricks, Cosmos DB)**, **storage tiers**, and **types of analytics (descriptive, diagnostic, predictive, prescriptive)**.
 
